@@ -102,9 +102,6 @@ def basic_info(hostinfo):
     print(s)
 
 
-# def check_it_out(hostname, port):
-#     hostinfo = get_certificate(hostname, port)
-#     basic_info(hostinfo)
 
 orig_stdout = sys.stdout
 f = open('outs.txt', 'w')
