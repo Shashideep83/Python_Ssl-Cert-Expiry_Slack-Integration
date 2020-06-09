@@ -1,5 +1,3 @@
-ssl expiry
-
 
 import ssl, socket
 import pandas as pd
