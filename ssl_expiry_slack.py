@@ -27,4 +27,4 @@ for i in hostname:
         })
 
 df = pd.DataFrame(datas) 
-print(df)
+
