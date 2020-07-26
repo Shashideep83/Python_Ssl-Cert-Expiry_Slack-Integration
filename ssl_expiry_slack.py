@@ -7,7 +7,7 @@ import OpenSSL.crypto as crypto
 hostname = ['google.com','expired.badssl.com']
 datas = []
 now = datetime.now()
-
+#edit
 for i in hostname:
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
