@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 import OpenSSL.crypto as crypto
 
-hostname = ['google.com','expired.badssl.com']
+hostname = ['google.co','expired.badssl.com']
 datas = []
 now = datetime.now()
 #edit
